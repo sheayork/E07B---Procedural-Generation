@@ -13,8 +13,8 @@ var cell_walls = {
 }
 
 var tile_size = 64
-var width = 20
-var height = 10
+var width = 6
+var height = 12
 
 onready var Map = $TileMap
 
